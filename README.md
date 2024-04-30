@@ -11,10 +11,8 @@ Social buzz needs insights into content trends to inform strategic decisions wit
 Tools to be used are :
 
 1. SQL - For cleaning of data from uploading CSV files and further exploring the data to get required outputs and relations made.
-
 2. Excel - The queries will be exported to excel for easier access and use of the management.
-
-3.Power BI - Visualization of data to help executive in Data Driven Decision Making.
+3. Power BI - Visualization of data to help executive in Data Driven Decision Making.
 
 Solution
 
